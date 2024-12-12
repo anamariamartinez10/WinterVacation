@@ -1,0 +1,36 @@
+.card {
+  width: 359px;
+  height: 516px;
+}
+
+.card__image {
+  width: 359px;
+  height: 279px;
+  margin: 0;
+  padding: 0;
+}
+
+.card__text {
+  background-color: black;
+  color: white;
+  margin: 0;
+  text-align: left;
+}
+
+.card__address {
+  font-family: "Source Serif Pro", 'Times New Roman', Times, serif;
+  color: #73A3CB;
+  font-size: 16px;
+  line-height: 20px;
+  padding:
+}
+
+.card__title {
+  margin: 0;
+  padding: 15px;
+  margin-right: auto;
+}
+
+.card__description {
+  padding: 18px 26px 12px 31px;
+}
