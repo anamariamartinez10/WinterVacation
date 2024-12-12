@@ -20,5 +20,5 @@ We created the design and layout using Figma, and followed the design to create 
 - Ana Maria Martinez
 - Martin Young
 
-[comment]: <> Feel free to edit. Rough draft of README.
+Deployed at: https://anamariamartinez10.github.io/WinterVacation/
 
