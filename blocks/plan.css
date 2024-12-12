@@ -1,0 +1,7 @@
+.plan__image {
+  max-width: 1440px;
+  max-height: 630px;
+  margin: 0 111px;
+  box-sizing: border-box;
+  border-radius: 11px;
+}
